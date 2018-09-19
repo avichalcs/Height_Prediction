@@ -1,8 +1,8 @@
 # Height_Prediction
 ## OverView
-It is small project of Height prediction according to the given Weight.
+Small project of Height prediction based on given Weight.
 ## Dependencies
 Jupyter Notebook
 ## Algorithm
 ### Linear Regression
-Python code from scratch to implement the Linear Regression Algorithm. 
+Python code from scratch to implement the Linear Regression Algorithm.Here you can see how to minimize the cost function using Gradient Descent. 
